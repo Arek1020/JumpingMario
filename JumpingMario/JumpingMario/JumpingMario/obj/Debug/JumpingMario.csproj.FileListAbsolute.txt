@@ -1,0 +1,21 @@
+C:\Users\aerkq\Downloads\C-Flappy-Bird-Game-Windows-Form-main\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy_Bird_Windows_Form.Form1.resources
+C:\Users\aerkq\Downloads\C-Flappy-Bird-Game-Windows-Form-main\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy_Bird_Windows_Form.Properties.Resources.resources
+C:\Users\aerkq\Downloads\C-Flappy-Bird-Game-Windows-Form-main\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy_Bird_Windows_Form.StartScreen.resources
+C:\Users\aerkq\Downloads\C-Flappy-Bird-Game-Windows-Form-main\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\JumpingMario.csproj.GenerateResource.cache
+C:\Users\aerkq\Downloads\C-Flappy-Bird-Game-Windows-Form-main\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\JumpingMario.csproj.CoreCompileInputs.cache
+C:\Users\aerkq\Downloads\C-Flappy-Bird-Game-Windows-Form-main\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.exe
+C:\Users\aerkq\Downloads\C-Flappy-Bird-Game-Windows-Form-main\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.pdb
+C:\Users\aerkq\Downloads\C-Flappy-Bird-Game-Windows-Form-main\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\bin\Debug\Flappy Bird Windows Form.exe.config
+C:\Users\aerkq\Downloads\C-Flappy-Bird-Game-Windows-Form-main\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\bin\Debug\Flappy Bird Windows Form.exe
+C:\Users\aerkq\Downloads\C-Flappy-Bird-Game-Windows-Form-main\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\bin\Debug\Flappy Bird Windows Form.pdb
+C:\Users\aerkq\Documents\C#\JumpingMario\JumpingMario\JumpingMario\obj\Debug\JumpingMario.csprojAssemblyReference.cache
+C:\Users\aerkq\Documents\C#\JumpingMario\JumpingMario\JumpingMario\obj\Debug\JumpingMario.Form1.resources
+C:\Users\aerkq\Documents\C#\JumpingMario\JumpingMario\JumpingMario\obj\Debug\JumpingMario.Properties.Resources.resources
+C:\Users\aerkq\Documents\C#\JumpingMario\JumpingMario\JumpingMario\obj\Debug\JumpingMario.csproj.GenerateResource.cache
+C:\Users\aerkq\Documents\C#\JumpingMario\JumpingMario\JumpingMario\obj\Debug\JumpingMario.csproj.CoreCompileInputs.cache
+C:\Users\aerkq\Documents\C#\JumpingMario\JumpingMario\JumpingMario\bin\Debug\JumpingMario.exe.config
+C:\Users\aerkq\Documents\C#\JumpingMario\JumpingMario\JumpingMario\bin\Debug\JumpingMario.exe
+C:\Users\aerkq\Documents\C#\JumpingMario\JumpingMario\JumpingMario\bin\Debug\JumpingMario.pdb
+C:\Users\aerkq\Documents\C#\JumpingMario\JumpingMario\JumpingMario\obj\Debug\JumpingMario.StartScreen.resources
+C:\Users\aerkq\Documents\C#\JumpingMario\JumpingMario\JumpingMario\obj\Debug\JumpingMario.exe
+C:\Users\aerkq\Documents\C#\JumpingMario\JumpingMario\JumpingMario\obj\Debug\JumpingMario.pdb
